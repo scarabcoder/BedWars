@@ -1,0 +1,8 @@
+name: BedWars
+version: 0.1.0
+author: Nicholas Harris (ScarabCoder)
+main: com.hyvere.bedwars.BedWars
+depend: [GameAPI]
+commands:
+  bedwars:
+    aliases: [bw]
